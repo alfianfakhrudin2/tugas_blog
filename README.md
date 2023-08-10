@@ -2,3 +2,4 @@
 haloa
 test
 test squash
+test squash 2
