@@ -1,2 +1,0 @@
-# tugas_blog
-haloa
