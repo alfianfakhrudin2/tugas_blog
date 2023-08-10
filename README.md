@@ -2,5 +2,5 @@
 haloa
 test
 tst sqash
-tes sqush 2
-tet sqash 3
+es squa 2
+tt sqah 3
