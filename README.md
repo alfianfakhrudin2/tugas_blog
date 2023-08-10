@@ -1,6 +1,6 @@
 # tugas_blog
 haloa
 test
-test squash
-test squash 2
-test squash 3
+tst sqash
+tes sqush 2
+tet sqash 3
